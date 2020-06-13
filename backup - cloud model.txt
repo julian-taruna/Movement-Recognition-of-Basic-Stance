@@ -1,0 +1,5 @@
+level 1:
+https://teachablemachine.withgoogle.com/models/vAP3gJIAD/
+
+level 2:
+https://teachablemachine.withgoogle.com/models/xuQ-NU7h0/
